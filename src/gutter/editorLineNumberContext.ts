@@ -3,6 +3,7 @@
 *  Licensed under the GPLv3 License. See License.md in the project root for license information.
 *--------------------------------------------------------------------------------------------*/
 
+import system
 import { Uri, commands } from "vscode";
 import { File } from "../../vscode-bookmarks-core/src/file";
 
